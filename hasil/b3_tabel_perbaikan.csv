@@ -1,0 +1,10 @@
+Metode,Parameter,KB,Simpangan baku
+asli,-,1.61,52.67
+negatif,255 - r,1.61,52.67
+cerah+50,+50,1.61,51.39
+kontras,"alpha=1.5, beta=-40",1.61,74.87
+regang,Persentil 2 dan 98,1.65,82.0
+gamma0.5,Gamma=0.5,1.45,37.54
+gamma1.8,Gamma=1.8,1.88,57.09
+ekualisasi,Global histogram equalization,1.22,73.37
+CLAHE,"clipLimit=2.0, tile=(8,8)",2.3,45.14
